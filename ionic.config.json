@@ -1,0 +1,7 @@
+{
+  "name": "willyStarLabCordova",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
